@@ -505,11 +505,11 @@ img {
 }
 
 .skills__html {
-  width: 80%;
+  width: 90%;
 }
 
 .skills__css {
-  width: 65%;
+  width: 80%;
 }
 
 .skills__javascript {
@@ -521,7 +521,7 @@ img {
 }
 
 .skills__react {
-  width: 15%;
+  width: 30%;
 }
 
 .skills__jquery {
@@ -529,23 +529,23 @@ img {
 }
 
 .skills__nodejs {
-  width: 15%;
+  width: 85%;
 }
 
 .skills__express {
-  width: 15%;
+  width: 85%;
 }
 
 .skills__mongodb {
-  width: 15%; 
+  width: 75%; 
 }
 
 .skills__rest {
-  width: 15%;
+  width: 80%;
 }
 
 .skills__firebase {
-  width: 15%;
+  width: 80%;
 }
 
 .skills__Cpp {
