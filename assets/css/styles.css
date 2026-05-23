@@ -1297,3 +1297,60 @@ img {
   }
 
 }
+
+/* Additional skills added for updated Software Engineer profile */
+.skills__typescript {
+  width: 80%;
+}
+
+.skills__microfrontend {
+  width: 70%;
+}
+
+.skills__storybook {
+  width: 70%;
+}
+
+.skills__dotnet {
+  width: 80%;
+}
+
+.skills__efcore {
+  width: 75%;
+}
+
+.skills__microservices {
+  width: 75%;
+}
+
+.skills__redis {
+  width: 75%;
+}
+
+.skills__messaging {
+  width: 70%;
+}
+
+.skills__postgresql {
+  width: 75%;
+}
+
+.skills__csharp {
+  width: 80%;
+}
+
+.skills__java {
+  width: 75%;
+}
+
+.skills__systemdesign {
+  width: 55%;
+}
+
+.skills__distributed {
+  width: 55%;
+}
+
+.skills__linux {
+  width: 70%;
+}
